@@ -1,6 +1,6 @@
 # Credit Card Default Prediction
 
-This project aims to predict whether a credit card user will default on their payment based on customer and transaction data. Using classification models such as Logistic Regression and Decision Tree, the project evaluates performance through various metrics and handles imbalanced data.
+This project aims to predict whether a credit card user will default on their payment based on customer and transaction data. Using classification models such as Random Forest Classifier, the project evaluates performance through various metrics and handles imbalanced data.
 
 ## 📊 Problem Statement
 Credit card default is a common problem faced by financial institutions. By predicting the likelihood of default, institutions can take preventive actions to manage risk.
